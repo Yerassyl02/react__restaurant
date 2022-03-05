@@ -1,6 +1,6 @@
 # instagram @turarrbek_
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link [@turarrbek_](https://www.instagram.com/turarrbek_/).
 
 ## Available Scripts
 
